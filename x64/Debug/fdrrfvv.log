@@ -1,0 +1,4 @@
+﻿  fdrrfvv.cpp
+D:\Student\fdrrfvv\fdrrfvv.cpp(24,12): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Student\fdrrfvv\fdrrfvv.cpp(36,13): warning C4804: '<': unsafe use of type 'bool' in operation
+  fdrrfvv.vcxproj -> D:\Student\fdrrfvv\x64\Debug\fdrrfvv.exe
